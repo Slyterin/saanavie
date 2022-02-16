@@ -38,7 +38,7 @@ nav ul li a {
 nav ul li a::after {
     content: "";
     position: absolute;
-    background-color: yellow;
+    background-color: pink;
     width: 0%;
     height: 3px;
     left: 0;
